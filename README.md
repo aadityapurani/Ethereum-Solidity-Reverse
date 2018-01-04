@@ -5,7 +5,7 @@ Writing challenges and reversing solidity smart contracts for learning.
 A practice arena for Solidity byte-code reverse engineering. I started this to learn Solidity because I believe programming solidity code and then looking at it's assembly is the best way to get acquainted with it. Here, are few challenges along with the source code. This is not a Solidity project or Production code. 
 
 ## What are the Goals of the Challenges?
-It's same as Capture the Flag, where you need to reverse and get a flag string denoted by `flag{..}` or otherwise mentioned in the challenge.
+It's same as Capture the Flag, where you need to reverse and get a flag string denoted by `FLAG{..}` or otherwise mentioned in the challenge.
 
 ## How to Proceed Now ?
 Click on directories with name of challenges, Inside any directory, there would be a README.md containing question, possibly a bytecode and possibly abi file. That's all is initially needed to kick off disassembling or decompilation. If **stuck** (please take this as last resort), then you can open the Source-Code and peek through it and Test it yourself. Mostly, the source code would be enough as a spoiler to the challenge but in near future I will try to level up challenges, so direct flags are not present.
