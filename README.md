@@ -33,4 +33,4 @@ Not necessarily. I am learning solidity programming and also figuring out ways t
 Most codes are intentionally vulnerable, hence I (and you too) can reverse it and figure out secrets (i.e Flag). You can try the challenge source-code on browser based IDE's like remix.ethereum.org.
 
 ## Is that it ?
-Pretty much as of now. The Repository is **UNDER CONSTRUCTION** , I will time to time add stuff as I learn and I look forward for other challenges from you folks so I & rest all folks can learn too about this subject. 
+The Repository is **UNDER CONSTRUCTION** , I will time to time add stuff as I learn and I look forward for other challenges from you folks so I & rest all folks can learn too about this subject. 
