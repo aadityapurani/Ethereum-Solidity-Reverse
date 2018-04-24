@@ -26,6 +26,8 @@ https://github.com/comaeio/porosity
 
 https://github.com/b-mueller/mythril
 
+https://fravoll.github.io/solidity-patterns/
+
 ## Are Challenges given number(s) based on difficulty ?
 Not necessarily. I am learning solidity programming and also figuring out ways to make challenges interesting. But, you can start with any of the ones you want. At the end of the day, we are all here to learn.
 
